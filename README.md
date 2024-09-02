@@ -19,7 +19,14 @@
 
 # **ProFinder** 🌟
 
-**ProFinder** is a platform that connects professionals with clients to create valuable work opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to collaborate with professionals, ProFinder offers a robust system that ensures the rights of both parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](#screenshots). 🌟 Start using ProFinder today to unlock new possibilities! ✨
+**ProFinder** is a platform that connects professionals with clients to create valuable work opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to collaborate with professionals, ProFinder offers a robust system that ensures the rights of both parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job opportunities. It also features a beautiful and eye-catching design that makes navigation easy and enjoyable. 🌟 Start using ProFinder today to unlock new possibilities! ✨
+
+🔍 [**Click Here to See the Screenshots!**](#screenshots)  
+Get a quick visual overview of the project.
+
+🚀 [**Click Here to Visit My Dashboard Live!**](https://profinder-dashboard.web.app)  
+Explore the dashboard in action and see its features firsthand, or you can visit it directly at [https://profinder-dashboard.web.app](https://profinder-dashboard.web.app).
+
 
 # Dashboard Overview 🛠️
 
