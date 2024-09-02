@@ -25,7 +25,7 @@
 Get a quick visual overview of the project.
 
 🚀 [**Click Here to Visit My Dashboard Live!**](https://profinder-dashboard.web.app)  
-Explore the dashboard in action and see its features firsthand, or you can visit it directly at [https://profinder-dashboard.web.app](https://profinder-dashboard.web.app).
+Explore the dashboard in action and see its features firsthand, or you can visit it directly at https://profinder-dashboard.web.app.
 
 
 # Dashboard Overview 🛠️
