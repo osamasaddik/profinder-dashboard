@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true  alt=""/>
+</div>
+
 <div align=center>
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
@@ -21,12 +25,11 @@
 
 **ProFinder** is a platform that connects professionals with clients to create valuable work opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to collaborate with professionals, ProFinder offers a robust system that ensures the rights of both parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job opportunities. It also features a beautiful and eye-catching design that makes navigation easy and enjoyable. 🌟 Start using ProFinder today to unlock new possibilities! ✨
 
-🔍 [**Click Here to See the Screenshots!**](#screenshots)  
-Get a quick visual overview of the project.
+## Product Links 🛒
 
-🚀 [**Click Here to Visit My Dashboard Live!**](https://profinder-dashboard.web.app)  
-Explore the dashboard in action and see its features firsthand, or you can visit it directly at https://profinder-dashboard.web.app
-
+- **Web App🖥️🖥️ :** [**Click Here to Visit My Dashboard Live!**](https://profinder-dashboard.web.app) 🚀
+- **Screenshots🖼️ :** [**View Screenshots**](https://profinder-screens.vercel.app/)
+- **Android App📱 :** [**Download on Telegram**](https://t.me/profinder_mobile_app/3)
 
 # Dashboard Overview 🛠️
 
@@ -130,14 +133,14 @@ The Admin Dashboard is the central hub for managing the platform, providing both
 
 ## **Developers**
 
-| **Name**                                                      | **Role**           | **Technology** | **Social Media**                                                     | **Email**               |
+| **Name**                                                      | **Role**           | **Technology** | **Linked In**                                                        | **Email**               |
 | ------------------------------------------------------------- | ------------------ | -------------- | -------------------------------------------------------------------- | ----------------------- |
-| **[Osama Saddik](https://github.com/osamasaddik)**            | Frontend Developer | React.js       | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com   |
+| **[Me: Osama Saddik](https://github.com/osamasaddik)**        | Frontend Developer | React.js       | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com   |
 | **[Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)**     | Backend Developer  | Express.js     | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      | ayman.eng.job@gmail.com |
 | **[Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)**           | Backend Developer  | Express.js     | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ajajeh356@gmail.com     |
 | **[Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar)** | Mobile Developer   | Flutter        | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) | example.email@gmail.com |
 | **[Omar Bkdash](https://github.com/Omar-Bkdash-7)**           | Mobile Developer   | Flutter        | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             | example.email@gmail.com |
-| **Alaa Haidar**                                               | UI & UX Designer   | Figma          | [@Alaa-Haidar](https://www.instagram.com/_alaa.haidar)               | N/A                     |
+| **Alaa Haidar**                                               | UI & UX Designer   | Figma          | [@Alaa-Haidar](https://www.linkedin.com/in/alaa-haidar)              | alaahaidaar@gmail.com   |
 
 # Screenshots
 
